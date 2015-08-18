@@ -1,5 +1,7 @@
 The classic pen and paper game ported for the Commodore VIC-20 (and C64 and C16 too!) the more refined the playing strategy became. When the CPU started to defeat me on a regular basis, I stopped improving the engine. Amateur Gomoku players will find moderately difficult to beat the computer, so they will enjoy challenging the VIC-20 and still have possibility to win. Made in machine language. 
+
 Original Website: http://antoninoporcino.xoom.it/Vic20/gomoku.htm
+
 © 1998-2008 Nino Porcino iz8bly@yahoo.it
 
 ![Tags: Five in a Row, Tic Tac Toe, TicTacToe, 5 in a Row, Go-Moku, Connect, Connect5, Connect6, Caro, Noughts and Crosses, Gomoku, Renju, Pente, Piskvork, Amoba, Kółko i Krzyżyk, Gomocup, AI, Engine, Artificial Intelligence, Brain, Pbrain, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding.](gomoku_vic20.gif "Tags: Five in a Row, Tic Tac Toe, TicTacToe, 5 in a Row, Go-Moku, Connect, Connect5, Connect6, Caro, Noughts and Crosses, Gomoku, Renju, Pente, Piskvork, Amoba, Kółko i Krzyżyk, Gomocup, AI, Engine, Artificial Intelligence, Brain, Pbrain, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding.")
